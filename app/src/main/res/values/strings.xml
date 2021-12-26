@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="viruswarning">Virus Warning</string>
+    <string name="imagedesc">Corona Virus</string>
+    <string name="notification">Notification :</string>
+    <string name="alertcovidvirus">Alert Codiv Virus</string>
+</resources>
